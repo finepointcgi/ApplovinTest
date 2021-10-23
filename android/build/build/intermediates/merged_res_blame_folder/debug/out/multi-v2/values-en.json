@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\animeman\\Documents\\AppLovinTest\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "C:\\Users\\Mitch\\Documents\\ApplovinTest\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\animeman\\Documents\\AppLovinTest\\android\\build\\res\\values-en\\godot_project_name_string.xml",
+                    "source": "C:\\Users\\Mitch\\Documents\\ApplovinTest\\android\\build\\res\\values-en\\godot_project_name_string.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "1",

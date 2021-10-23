@@ -33,6 +33,8 @@ func _on_interstitial_failed_to_load(id: String, error: String):
 func _on_interstitial_close(id: String) :
 	get_tree().paused = false
 
+func _on_banner_failed_to_load(id: String, error: String):
+	print( error)
 
 func _on_Button_button_down():
 	loadBanner()

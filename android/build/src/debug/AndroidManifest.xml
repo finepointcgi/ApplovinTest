@@ -13,7 +13,7 @@
         android:name=".GodotInstrumentation"
         android:icon="@mipmap/icon"
         android:label="@string/godot_project_name_string"
-        android:targetPackage="org.godotengine.$genname" />
+        android:targetPackage="com.Finpointcgi.testAdlovinApp" />
     <application android:label="@string/godot_project_name_string"
         android:allowBackup="false" tools:ignore="GoogleAppIndexingWarning"
         tools:replace="android:requestLegacyExternalStorage"         android:requestLegacyExternalStorage="false"

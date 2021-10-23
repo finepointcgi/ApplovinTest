@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.godotengine.applovintest"
+3    package="com.Finpointcgi.testAdlovinApp"
 4    android:installLocation="auto"
 5    android:versionCode="1"
 6    android:versionName="1.0" > <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
@@ -9,90 +9,90 @@
 9        android:targetSdkVersion="30" />
 10
 11    <supports-screens
-11-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:12:5-16:40
+11-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:12:5-16:40
 12        android:largeScreens="true"
-12-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:15:9-36
+12-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:15:9-36
 13        android:normalScreens="true"
-13-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:14:9-37
+13-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:14:9-37
 14        android:smallScreens="true"
-14-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:13:9-36
+14-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:13:9-36
 15        android:xlargeScreens="true" />
-15-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:16:9-37
+15-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:16:9-37
 16
 17    <uses-feature
-17-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:10:5-78
+17-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:10:5-78
 18        android:glEsVersion="0x00030000"
-18-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:10:19-51
+18-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:10:19-51
 19        android:required="true" />
-19-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:10:52-75
+19-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:10:52-75
 20
 21    <instrumentation
-21-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:11:5-16:60
+21-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:11:5-16:66
 22        android:name=".GodotInstrumentation"
-22-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:13:9-45
+22-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:13:9-45
 23        android:icon="@mipmap/icon"
-23-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:14:9-36
+23-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:14:9-36
 24        android:label="@string/godot_project_name_string"
-24-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:15:9-58
-25        android:targetPackage="org.godotengine.$genname" />
-25-->C:\Users\animeman\Documents\AppLovinTest\android\build\src\debug\AndroidManifest.xml:16:9-57
+24-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:15:9-58
+25        android:targetPackage="com.Finpointcgi.testAdlovinApp" />
+25-->C:\Users\Mitch\Documents\ApplovinTest\android\build\src\debug\AndroidManifest.xml:16:9-63
 26
 27    <uses-permission android:name="android.permission.INTERNET" />
-27-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:5-67
-27-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:22-64
+27-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:5-67
+27-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:11:22-64
 28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-28-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:5-79
-28-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:22-76
+28-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:5-79
+28-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:12:22-76
 29    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-29-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:5-81
-29-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:22-78
+29-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:5-81
+29-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:13:22-78
 30
 31    <uses-feature android:name="android.hardware.location.network" />
-31-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:5-70
-31-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:19-67
+31-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:5-70
+31-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:15:19-67
 32
 33    <application
-33-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:31:5-69:19
+33-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:31:5-69:19
 34        android:allowBackup="false"
-34-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:31:68-95
+34-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:31:68-95
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-35-->[androidx.core:core:1.0.0] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ee4998e5c44f8791e55e396202e7f092\core-1.0.0\AndroidManifest.xml:22:18-86
+35-->[androidx.core:core:1.0.0] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ee4998e5c44f8791e55e396202e7f092\core-1.0.0\AndroidManifest.xml:22:18-86
 36        android:debuggable="true"
 37        android:hardwareAccelerated="true"
-37-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:18:9-43
+37-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:18:9-43
 38        android:icon="@mipmap/icon"
-38-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:31:181-208
+38-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:31:181-208
 39        android:label="@string/godot_project_name_string"
-39-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:31:18-67
+39-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:31:18-67
 40        android:networkSecurityConfig="@xml/network_security_config"
-40-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:19:9-69
+40-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:19:9-69
 41        android:requestLegacyExternalStorage="false" >
-41-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:31:136-180
+41-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:31:136-180
 42        <activity
-42-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:46:9-63:20
+42-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:46:9-63:20
 43            android:name="com.godot.game.GodotApp"
-43-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:47:13-37
+43-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:47:13-37
 44            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
-44-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:52:13-141
+44-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:52:13-141
 45            android:label="@string/godot_project_name_string"
-45-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:48:13-62
+45-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:48:13-62
 46            android:launchMode="singleTask"
-46-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:50:13-44
+46-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:50:13-44
 47            android:resizeableActivity="false"
-47-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:53:13-47
+47-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:53:13-47
 48            android:screenOrientation="landscape"
-48-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:51:13-50
+48-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:51:13-50
 49            android:theme="@style/GodotAppSplashTheme" >
-49-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:49:13-55
+49-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:49:13-55
 50            <intent-filter>
-50-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:59:13-62:29
+50-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:59:13-62:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:60:17-69
-51-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:60:25-66
+51-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:60:17-69
+51-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:60:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:61:17-77
-53-->C:\Users\animeman\Documents\AppLovinTest\android\build\AndroidManifest.xml:61:27-74
+53-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:61:17-77
+53-->C:\Users\Mitch\Documents\ApplovinTest\android\build\AndroidManifest.xml:61:27-74
 54            </intent-filter>
 55        </activity>
 56        <!-- Records the version of the Godot editor used for building -->
@@ -100,15 +100,15 @@
 58            android:name="org.godotengine.editor.version"
 59            android:value="3.3.4.stable" /> <!-- Records the version of the Godot library -->
 60        <meta-data
-60-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:20:9-22:44
+60-->[godot-lib.debug.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:20:9-22:44
 61            android:name="org.godotengine.library.version"
-61-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:21:13-59
+61-->[godot-lib.debug.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:21:13-59
 62            android:value="3.3.4.stable" />
-62-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:22:13-41
+62-->[godot-lib.debug.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:22:13-41
 63
 64        <service android:name="org.godotengine.godot.GodotDownloaderService" />
-64-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:9-80
-64-->[godot-lib.debug.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:18-77
+64-->[godot-lib.debug.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:9-80
+64-->[godot-lib.debug.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\ffbaff7c2eb1d8319c1ccff75db3c820\jetified-godot-lib.debug\AndroidManifest.xml:24:18-77
 65        <!--
 66    Plugin metadata:
 67    - In the `android:name` attribute, the `org.godotengine.plugin.v1` prefix
@@ -119,112 +119,112 @@
 72    initializer.
 73        -->
 74        <meta-data
-74-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:30:9-32:66
+74-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:30:9-32:66
 75            android:name="org.godotengine.plugin.v1.AppLovinMax"
-75-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:31:13-65
+75-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:31:13-65
 76            android:value="ru.mobilap.applovinmax.AppLovinMax" />
-76-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:32:13-63
+76-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:32:13-63
 77        <meta-data
-77-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:33:9-35:36
+77-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:33:9-35:36
 78            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
-78-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:34:13-69
+78-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:34:13-69
 79            android:value="true" />
-79-->[AppLovinMax.release.aar] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:35:13-33
+79-->[AppLovinMax.release.aar] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\12a735ecfe2323eabecdff7d5f1484b3\jetified-AppLovinMax.release\AndroidManifest.xml:35:13-33
 80
 81        <activity
-81-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:15:9-19:50
+81-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:15:9-19:50
 82            android:name="com.applovin.adview.AppLovinInterstitialActivity"
-82-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:16:13-76
+82-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:16:13-76
 83            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode"
-83-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:17:13-98
+83-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:17:13-98
 84            android:hardwareAccelerated="true"
-84-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:18:13-47
+84-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:18:13-47
 85            android:screenOrientation="behind" />
-85-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:19:13-47
+85-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:19:13-47
 86        <activity
-86-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:20:9-26:50
+86-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:20:9-26:50
 87            android:name="com.applovin.adview.AppLovinFullscreenActivity"
-87-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:21:13-74
+87-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:21:13-74
 88            android:configChanges="keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-88-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:22:13-129
+88-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:22:13-129
 89            android:exported="false"
-89-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:23:13-37
+89-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:23:13-37
 90            android:hardwareAccelerated="true"
-90-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:24:13-47
+90-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:24:13-47
 91            android:launchMode="singleTop"
-91-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:25:13-43
+91-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:25:13-43
 92            android:screenOrientation="behind" />
-92-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:26:13-47
+92-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:26:13-47
 93        <activity
-93-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:27:9-29:84
+93-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:27:9-29:84
 94            android:name="com.applovin.sdk.AppLovinWebViewActivity"
-94-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:28:13-68
+94-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:28:13-68
 95            android:configChanges="keyboardHidden|orientation|screenSize|uiMode" />
-95-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:29:13-81
+95-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:29:13-81
 96        <activity
-96-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:30:9-33:87
+96-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:30:9-33:87
 97            android:name="com.applovin.mediation.MaxDebuggerActivity"
-97-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:31:13-70
+97-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:31:13-70
 98            android:configChanges="keyboardHidden|orientation|screenSize"
-98-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:32:13-74
+98-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:32:13-74
 99            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-99-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:33:13-84
+99-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:33:13-84
 100        <activity
-100-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:34:9-37:87
+100-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:34:9-37:87
 101            android:name="com.applovin.mediation.MaxDebuggerDetailActivity"
-101-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:35:13-76
+101-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:35:13-76
 102            android:configChanges="keyboardHidden|orientation|screenSize"
-102-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:36:13-74
+102-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:36:13-74
 103            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-103-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:37:13-84
+103-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:37:13-84
 104        <activity
-104-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:38:9-41:87
+104-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:38:9-41:87
 105            android:name="com.applovin.mediation.MaxDebuggerMultiAdActivity"
-105-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:39:13-77
+105-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:39:13-77
 106            android:configChanges="keyboardHidden|orientation|screenSize"
-106-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:40:13-74
+106-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:40:13-74
 107            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-107-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:41:13-84
+107-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:41:13-84
 108        <activity
-108-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:42:9-45:87
+108-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:42:9-45:87
 109            android:name="com.applovin.mediation.MaxDebuggerAdUnitsListActivity"
-109-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:43:13-81
+109-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:43:13-81
 110            android:configChanges="keyboardHidden|orientation|screenSize"
-110-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:44:13-74
+110-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:44:13-74
 111            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-111-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:45:13-84
+111-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:45:13-84
 112        <activity
-112-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:46:9-49:87
+112-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:46:9-49:87
 113            android:name="com.applovin.mediation.MaxDebuggerAdUnitDetailActivity"
-113-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:47:13-82
+113-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:47:13-82
 114            android:configChanges="keyboardHidden|orientation|screenSize"
-114-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:48:13-74
+114-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:48:13-74
 115            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-115-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:49:13-84
+115-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:49:13-84
 116
 117        <service
-117-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:51:9-54:44
+117-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:51:9-54:44
 118            android:name="com.applovin.impl.sdk.utils.AppKilledService"
-118-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:52:13-72
+118-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:52:13-72
 119            android:exported="false"
-119-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:53:13-37
+119-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:53:13-37
 120            android:stopWithTask="false" />
-120-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:54:13-41
+120-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:54:13-41
 121        <service
-121-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:55:9-58:44
+121-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:55:9-58:44
 122            android:name="com.applovin.impl.adview.activity.FullscreenAdService"
-122-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:56:13-81
+122-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:56:13-81
 123            android:exported="false"
-123-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:57:13-37
+123-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:57:13-37
 124            android:stopWithTask="false" />
-124-->[com.applovin:applovin-sdk:10.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:58:13-41
+124-->[com.applovin:applovin-sdk:10.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\5865b9773f9dc6c81904236a1316348c\jetified-applovin-sdk-10.0.1\AndroidManifest.xml:58:13-41
 125
 126        <meta-data
-126-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\fa634634d298ab6e1cf1323c723dedb2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+126-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\114b5e68c8490d16f280683b27a02817\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
 127            android:name="com.google.android.gms.version"
-127-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\fa634634d298ab6e1cf1323c723dedb2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+127-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\114b5e68c8490d16f280683b27a02817\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
 128            android:value="@integer/google_play_services_version" />
-128-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\animeman\.gradle\caches\transforms-2\files-2.1\fa634634d298ab6e1cf1323c723dedb2\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+128-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Mitch\.gradle\caches\transforms-2\files-2.1\114b5e68c8490d16f280683b27a02817\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
 129    </application>
 130
 131</manifest>

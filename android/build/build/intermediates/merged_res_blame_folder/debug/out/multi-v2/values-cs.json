@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\animeman\\Documents\\AppLovinTest\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "C:\\Users\\Mitch\\Documents\\ApplovinTest\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\animeman\\.gradle\\caches\\transforms-2\\files-2.1\\fa634634d298ab6e1cf1323c723dedb2\\jetified-play-services-basement-16.0.1\\res\\values-cs\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "2809",
-                        "endColumns": "201",
-                        "endOffsets": "3006"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\animeman\\.gradle\\caches\\transforms-2\\files-2.1\\ee4998e5c44f8791e55e396202e7f092\\core-1.0.0\\res\\values-cs\\values-cs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "32",
-                        "startColumns": "4",
-                        "startOffsets": "3160",
-                        "endColumns": "100",
-                        "endOffsets": "3256"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\animeman\\Documents\\AppLovinTest\\android\\build\\res\\values-cs\\godot_project_name_string.xml",
+                    "source": "C:\\Users\\Mitch\\Documents\\ApplovinTest\\android\\build\\res\\values-cs\\godot_project_name_string.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "1",
@@ -55,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\animeman\\.gradle\\caches\\transforms-2\\files-2.1\\bf4f0bc82adc3088167a1ee6f649594e\\appcompat-1.0.0\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\Mitch\\.gradle\\caches\\transforms-2\\files-2.1\\ee4998e5c44f8791e55e396202e7f092\\core-1.0.0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "3160",
+                        "endColumns": "100",
+                        "endOffsets": "3256"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mitch\\.gradle\\caches\\transforms-2\\files-2.1\\114b5e68c8490d16f280683b27a02817\\jetified-play-services-basement-16.0.1\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "2809",
+                        "endColumns": "201",
+                        "endOffsets": "3006"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mitch\\.gradle\\caches\\transforms-2\\files-2.1\\bf4f0bc82adc3088167a1ee6f649594e\\appcompat-1.0.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
