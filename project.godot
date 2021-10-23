@@ -1,0 +1,35 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[AppLovin]
+
+SdkKey="KwGsUmMcSvLp8CpWdr1qoaTJnsKUgEIBIcWouFU8I9OSg5TBM2Q0IbOvrXMbgT7ZXrV75mWH3lwuBQ5DETWpcz"
+
+[application]
+
+config/name="AppLovinTest"
+run/main_scene="res://Node2D.tscn"
+config/icon="res://icon.png"
+
+[autoload]
+
+applovin_max="*res://scripts/applovin_max.gd"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/NativeLib/plugin.cfg" )
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
